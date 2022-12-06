@@ -1,8 +1,8 @@
 # Technical Documenation Pahe
 This is an example of a technical documentation page. 
 
-##Contributing
+## Contributing
 All your contributions are welcome. Let's build and learn together
 
-##License
+## License
 [MIT](https://choosealicense.com/licenses/mit/)
